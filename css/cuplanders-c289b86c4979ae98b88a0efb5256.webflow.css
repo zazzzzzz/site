@@ -329,7 +329,7 @@ figcaption {
   grid-template-rows: auto auto;
   background-color: transparent;
   background-image: url('../images/IMG_0575.PNG');
-  background-position: 0px 0px;
+  background-position: 0px -81px;
   background-size: cover;
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
@@ -345,13 +345,13 @@ figcaption {
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
   border-radius: 9px;
-  background-color: #cff800;
+  background-color: #0075eb;
   box-shadow: 0 3px 0 0 rgba(32, 32, 32, 0.05);
   -webkit-transition: box-shadow 200ms ease, border-color 200ms ease, color 200ms ease, background-color 200ms ease, -webkit-transform 200ms ease;
   transition: box-shadow 200ms ease, border-color 200ms ease, color 200ms ease, background-color 200ms ease, -webkit-transform 200ms ease;
   transition: box-shadow 200ms ease, transform 200ms ease, border-color 200ms ease, color 200ms ease, background-color 200ms ease;
   transition: box-shadow 200ms ease, transform 200ms ease, border-color 200ms ease, color 200ms ease, background-color 200ms ease, -webkit-transform 200ms ease;
-  color: #0f0f0f;
+  color: #ffffff;
   font-size: 18px;
   line-height: 1.5;
   font-weight: 500;
@@ -359,8 +359,8 @@ figcaption {
 }
 
 .button:hover {
-  background-color: #bbe600;
-  color: #0f0f0f;
+  background-color: #0239ad;
+  color: #ffffff;
 }
 
 .button:active {
